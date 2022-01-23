@@ -29,6 +29,7 @@ li {
 
 .active {
 		opacity: 1;
+		transition-delay: 0ms;
 }
 
 li > img {
